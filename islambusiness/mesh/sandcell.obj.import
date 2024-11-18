@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7b8knxt4j366"
+path="res://.godot/imported/sandcell.obj-944d4d810a2807bb8831c15cae3d2acf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sandcell.obj-944d4d810a2807bb8831c15cae3d2acf.mesh"]
+
+source_file="res://mesh/sandcell.obj"
+dest_files=["res://.godot/imported/sandcell.obj-944d4d810a2807bb8831c15cae3d2acf.mesh", "res://.godot/imported/sandcell.obj-944d4d810a2807bb8831c15cae3d2acf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
