@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://8wwcigpu226o"]
+
+[ext_resource type="ArrayMesh" uid="uid://b7b8knxt4j366" path="res://mesh/sandcell.obj" id="1_qqb0w"]
+
+[node name="Node3D" type="MeshInstance3D"]
+mesh = ExtResource("1_qqb0w")
